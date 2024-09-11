@@ -10,12 +10,12 @@
       }
 
       .cls-2 {
-        fill: #f2f0f9;
+        fill: currentColor;
       }
     </style>
     <linearGradient id="Unbenannter_Verlauf_17" data-name="Unbenannter Verlauf 17" x1="756" y1="381" x2="756" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#f2f0f9"/>
-      <stop offset="1" stop-color="#060007"/>
+      <stop offset="0" stop-color="currentColor"/>
+      <stop offset="1" stop-color="currentColor"/>
     </linearGradient>
   </defs>
   <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
