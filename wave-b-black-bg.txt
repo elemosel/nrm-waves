@@ -4,7 +4,6 @@
     <style>
       .cls-wave-b-black-bg {
         fill: var(--offblack--900);
-        opacity: .5;
       }
     </style>
   </defs>
